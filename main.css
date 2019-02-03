@@ -195,3 +195,22 @@ footer {
     font-size: 0.8em;
 }
 
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: underline;
+}
+
+/* Style a Warning Message. Remove if Grid works */
+
+.warning {
+    color: #eee;
+    background: rgb(red, green, blue);
+    padding: 3rem 4rem;
+    font-size: 150%;
+    line-height: 1.4;
+    text-align: left;
+    margin-bottom: 1em
+}
