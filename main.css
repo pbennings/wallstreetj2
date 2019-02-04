@@ -214,3 +214,12 @@ a {
     text-align: left;
     margin-bottom: 1em
 }
+
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+.warning {
+    display: none;
+}
